@@ -23,6 +23,12 @@ Note that the mysql reation addition will create the database and populated it w
 
 admin_password sets the admin password for the gitlab unit
 
+# How to access GitLab
+
+To access your freshly installed GitLab charm instance you need to go to the public address of you gitlab unit and provide the admin user name and password.
+
+The default admin username is admin@local.host and the password should be the one set at config.yaml admin_password configuration option.
+
 # Contact Information
 
 Author: Helio L Mota
