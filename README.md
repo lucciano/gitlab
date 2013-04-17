@@ -1,6 +1,6 @@
 # Overview
 
-This charm provides gitlab from http://http://gitlab.org. Gitlab is a self hosted git management software based on gitolite and rails. It provides a neat source code repository management interface in the likes of github.
+This charm provides gitlab from http://gitlab.org. Gitlab is a self hosted git management software based on gitolite and rails. It provides a neat source code repository management interface in the likes of github.
 
 # Installation
 
