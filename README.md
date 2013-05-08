@@ -9,11 +9,11 @@ To install this charm, first edit config.yaml to suite your needs and schedule t
     juju deploy mysql
     juju deploy gitlab
 
-You can then add a relation between joomla and mysql with:
+You can then add a relation between gitlab and mysql with:
 
     juju add-relation gitlab mysql
 
-Finally you need to expose your joomla instance:
+Finally you need to expose your gitlab instance:
 
     juju expose gitlab
 
